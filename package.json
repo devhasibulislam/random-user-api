@@ -1,0 +1,31 @@
+{
+  "name": "random-user-api",
+  "version": "1.0.0",
+  "description": "Create an API that is able to create random user with some criteria including with CRUD operation.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start-dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasibulislam999/random-user-api.git"
+  },
+  "keywords": [
+    "promise",
+    "async",
+    "rest-api"
+  ],
+  "author": "Hasibul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasibulislam999/random-user-api/issues"
+  },
+  "homepage": "https://github.com/hasibulislam999/random-user-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "win-node-env": "^0.6.1"
+  }
+}
