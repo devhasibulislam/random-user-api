@@ -1,5 +1,12 @@
 {
-  "cSpell.words": ["Hasibul"],
+  "cSpell.words": [
+    "Gazipur",
+    "Hasibul",
+    "Khanum",
+    "Narsingdi",
+    "Rakib",
+    "Sadia"
+  ],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
