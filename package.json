@@ -4,8 +4,8 @@
   "description": "Create an API that is able to create random user with some criteria including with CRUD operation.",
   "main": "app.js",
   "engines": {
-    "node": "16.x",
-    "npm": ">=6.x"
+    "node": "16.16.0",
+    "npm": "8.15.1"
   },
   "scripts": {
     "start": "node app.js",
