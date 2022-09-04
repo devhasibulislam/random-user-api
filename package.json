@@ -1,6 +1,10 @@
 {
   "name": "random-user-api",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x",
+    "npm": "7.x"
+  },
   "description": "Create an API that is able to create random user with some criteria including with CRUD operation.",
   "main": "app.js",
   "scripts": {
