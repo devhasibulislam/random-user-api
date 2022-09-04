@@ -16,3 +16,12 @@ module.exports.getARandomUser = (req, res) => {
     });
 }
 
+// Get all user data
+module.exports.getAllUsers = (req, res) => {
+    res.status(200).json({
+        success: true,
+        message: "successfully fetching user data",
+        data: users
+    });
+};
+
