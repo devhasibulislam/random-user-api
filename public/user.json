@@ -78,13 +78,5 @@
         "contact": "367-938-6123",
         "address": "3073 Larry Pass",
         "photoURL": "https://robohash.org/adquidolores.png?size=500x500&set=set1"
-    },
-    {
-        "id": 11,
-        "gender": "Female",
-        "name": "Sadia Khanum",
-        "contact": "123-456-78915",
-        "address": "19-C Narsingdi, Dhaka",
-        "photoURL": "https://robohash.org/eteosquidem.png?size=500x500&set=set1"
     }
 ]
