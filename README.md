@@ -56,3 +56,4 @@ A rest API that is created and store in local `user.json` file format. It convey
 ]
 ```
 * To **delete a user** type `http://localhost:5000/user/delete/9`
+---
