@@ -8,10 +8,9 @@
 // external imports
 const express = require("express");
 const cors = require("cors");
-const userRouter = require("./routes/user.route");
 
 // internal imports
-// const userRoute = require("./routes/user.route");
+const userRouter = require("./routes/user.route");
 
 const app = express();
 const port = process.env.PORT || 5000;
