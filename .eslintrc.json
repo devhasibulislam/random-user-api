@@ -12,5 +12,9 @@
   "rules": {
     "semi": ["error", "always"],
     "quotes": ["error", "double"],
+<<<<<<< HEAD
+=======
+    "indent": "error"
+>>>>>>> 57feed6990c885cc1dfdc7819a203299b399aabb
   }
 }
